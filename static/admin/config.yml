@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: main
+  locale: 'ru'
   commit_messages:
     create: "Создание {{collection}} “{{slug}}”"
     update: "Обновление {{collection}} “{{slug}}”"
